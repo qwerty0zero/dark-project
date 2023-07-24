@@ -1,0 +1,61 @@
+[
+    {
+        "type": "imgSection",
+        "imgSource": 1
+    }, 
+    {
+        "type": "textSection",
+        "title": "HS2",
+        "text":  "The structure of the headset is based on a soft headband, made of high-quality eco-leather with a thick metal frame inside. Due to its versatility, this type of construction provides a snug fit, while maintaining comfort even during prolonged use."
+    },
+    {
+        "type": "imageTextSection",
+        "imgSource": 2,
+        "title": "Metal frame",
+        "text": "The structure of the headset is based on a soft headband, made of high-quality eco-leather with a thick metal frame inside. Due to its versatility, this type of construction provides a snug fit, while maintaining comfort even during prolonged use."
+    },
+
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 3,
+        "title": "Modular microphone",
+        "text": "The microphone of the Dark Project HS-2 headset can be detached if necessary, but the clarity of the recording and the clarity of the voice will certainly make it the main one. The flexible metal base allows you to securely fix the position of the microphone, or move it to the side."
+    },
+    {
+        "type": "imgSection",
+        "imgSource": 4
+    }, 
+    {
+        "type": "imageTextSection",
+        "imgSource": 5,
+        "title": "Control panel",
+        "text": "The sound card inside the control panel provides the best sound quality when connected via USB. There are two switches on the control panel, for a microphone and a backlight, as well as a convenient volume control is always at hand!"
+    },
+
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 6,
+        "title": "Braided cable",
+        "text": "Included with the headset you will find cables for connecting via 3.5 mm and USB. All of them are covered with a flexible braid that protects against chafing and other adverse effects."
+    },
+    {
+        "type": "imageTextSectionReverse Wide",
+        "imgSource": 7,
+        "title": "Customizable RGB backlight",
+        "text": "A thin LED strip runs along the contour of the Dark Project headset cups, neatly complementing the appearance and minimalistic style of the headphones. Setting the brightness, mode and color of the backlight is carried out in proprietary software"
+    },
+    {
+        "type": "imgSlider",
+        "imgSources": [8,9,10]
+    }, 
+    {
+        "type": "mainSpecs",
+        "Frequency response": "20-20000Hz",
+        "Sensitivity": "98 dB",
+        "Driver size diametr": "53mm",
+        "RGB": "Yes",
+        "Micriphone frequency response": "100-10000  Hz",
+        "Micriphone sensitivity" : "53 dB",
+        "Connectivity": "3.5mm jack -USB"
+    }
+]

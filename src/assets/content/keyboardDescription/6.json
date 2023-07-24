@@ -1,0 +1,26 @@
+[
+    {
+        "type":"ProductBox",
+        "title": "KD87LT",
+        "imgSource": 1
+
+    },
+    {
+        "type": "mainSpecs",
+        "RGB": "Yes",
+        "Connectivity": "USB",
+        "Switch": "Optical Silver",
+        "Number of Keys": 87,
+        "Material": "Plastic",
+        "keycaps profile" : "XDA",
+        "Keycap plastic": "PBT",
+        "Leter pronting": "Sub;imation",
+        "Cable": "1,8m, USB-A, braided"
+
+    },
+    {
+        "type": "sizeSpecs",
+        "Size": "362*138*39 mm",
+        "Weight": "865 gr"
+    }
+]

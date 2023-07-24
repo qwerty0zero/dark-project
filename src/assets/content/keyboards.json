@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name" : "KD87",
+        "sub_name": "Mechanical Red",
+        "title": "In Stock",
+        "price": 199,
+        "date": "11-07-2023",
+        "popularity": 11
+    },
+    {
+        "id": 2,
+        "name" : "KD104A",
+        "sub_name": "Mechanical Yellow",
+        "title": "In Stock",
+        "price": 219,
+        "date": "11-04-2023",
+        "popularity": 1
+    },
+    {
+        "id": 3,
+        "name" : "KD87",
+        "sub_name": "Optical Red",
+        "title": "In Stock",
+        "price": 249,
+        "date": "11-06-2023",
+        "popularity": 110
+    },
+    {
+        "id": 4,
+        "name" : "KD87",
+        "sub_name": "Mechanical Teal",
+        "title": "In Stock",
+        "price": 219,
+        "date": "11-03-2023",
+        "popularity": 0
+    },
+    {
+        "id": 5,
+        "name" : "KD104A",
+        "sub_name": "Optical Red",
+        "title": "In Stock",
+        "price": 299,
+        "date": "11-07-2024",
+        "popularity": 6
+    },
+    {
+        "id": 6,
+        "name" : "KD87",
+        "sub_name": "LTD",
+        "title": "In Stock",
+        "price": 299,
+        "date": "11-07-2025",
+        "popularity": 2
+    }
+]

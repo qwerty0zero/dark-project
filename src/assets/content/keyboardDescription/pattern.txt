@@ -1,0 +1,55 @@
+
+
+
+
+
+    {
+        "type": "imageTextSection",
+        "imgSource": 4,
+        "title": "",
+        "text": ""
+    },
+
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": ,
+        "title": "",
+        "text": ""
+    },
+
+
+    {
+        "type": "imgSection",
+        "imgSource": 
+    }, 
+
+
+    {
+        "type": "textSection",
+        "title": "",
+        "text":  ""
+    },
+
+
+    {
+        "type": "imgSlider",
+        "imgSources": [6,7,8]
+    }, 
+    {
+        "type": "mainSpecs",
+        "RGB": "Yes",
+        "Connectivity": "USB",
+        "Switch": "Mechanical Yellow",
+        "Number of Keys": 104,
+        "Material": "Plastic",
+        "keycaps profile" : "Cherry",
+        "Keycap plastic": "PBT",
+        "Leter pronting": "DoubleShot",
+        "Cable": "1,8m, USB-A, braided"
+
+    },
+    {
+        "type": "sizeSpecs",
+        "Size": "443*138*39 mm",
+        "Weight": "1050 gr"
+    }

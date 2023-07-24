@@ -1,0 +1,59 @@
+[
+    {
+        "type": "imgSection",
+        "imgSource": 1
+    }, 
+    {
+        "type": "textSection",
+        "title": "HS1",
+        "text":  "Classic design gaming headset with virtual 7.1 sound, metal headband and interchangeable fabric ear cushions."
+    },
+    {
+        "type": "imgSection",
+        "imgSource": 2
+    }, 
+    {
+        "type": "imageTextSection",
+        "imgSource": 3,
+        "title": "Metal frame",
+        "text": "The structure of the headset is based on a soft headband, made of high-quality eco-leather with a thick metal frame inside. Due to its versatility, this type of construction provides a snug fit, while maintaining comfort even during prolonged use."
+    },
+
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 4,
+        "title": "Neodymium drivers 53 mm",
+        "text": "High-quality sound transmission and optimal frequency balance are provided by high-quality 53 mm speakers with a sensitivity of 98 dB. And an increased impedance of 45 ohms. A gaming headset can also impress when listening to music or watching a movie - Dark Project HS-1 is an example of this."
+    },
+    {
+        "type": "imgSection",
+        "imgSource": 5
+    }, 
+    {
+        "type": "imageTextSection",
+        "imgSource": 6,
+        "title": "Control panel",
+        "text": "The sound card inside the control panel provides the best sound quality when connected via USB. There are two switches on the control panel, for a microphone and a backlight, as well as a convenient volume control is always at hand!"
+    },
+
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 7,
+        "title": "Modular microphone",
+        "text": "The microphone of the Dark Project HS-1 headset can be detached if necessary, but the clarity of the recording and the clarity of the voice will certainly make it the main one. The flexible metal base allows you to securely fix the position of the microphone, or move it to the side."
+    },
+    {
+        "type": "imgSlider",
+        "imgSources": [8,9,10]
+    }, 
+    {
+        "type": "mainSpecs",
+        "Frequency response": "20-20000Hz",
+        "Sensitivity": "98 dB",
+        "Driver size diametr": "53mm",
+        "RGB": "Yes",
+        "Micriphone frequency response": "100-10000  Hz",
+        "Micriphone sensitivity" : "67 dB",
+        "Connectivity": "3.5mm jack -USB"
+    }
+]

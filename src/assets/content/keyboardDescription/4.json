@@ -1,0 +1,86 @@
+[
+
+    {
+        "type": "imgSection",
+        "imgSource": 1
+    }, 
+    {
+        "type": "textSection",
+        "title": "KD87 Mechanical Teal",
+        "text":  "Compact, ergonomic gaming keyboard, equipped with unique mechanical switches of the latest generation Gateron Cap Teal, fully waxed during assembly, wearproof pudding PBT keycaps made by double-shot technology with top engraving of ENG symbols, RGB backlighting, greased TLC gimbals and case noise isolation."
+    },
+
+    {
+        "type": "imageTextSection",
+        "imgSource": 2,
+        "title": "Modular cable",
+        "text": "The Dark Project KD87A keyboard comes with a detachable USB - Type-c cable 1.8 m long. The cable channel located at the bottom of the keyboard allows you to easily lay it in any of the three directions to choose from. The wire itself is covered with an elastic wear-resistant braid, which will protect against contact with the table surface and other undesirable influences."
+    },
+
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 3,
+        "title": "Gateron Cap Teal",
+        "text": "Collaboration between Gateron and the Dark Project with Teals switches. The only serial switches with waxed bounces from the factory.",
+        "sub-text": "Response time - 1 ms Pressing force - 45g Sensing distance - 2 mm Clicks resource - 50 million clicks" 
+    },
+
+    {
+        "type": "imgSectionNarrow",
+        "imgSource": 4
+    }, 
+    {
+        "type": "textSection",
+        "title": "Doublshot pudding keycaps",
+        "text":  "These pudding keycaps are made of PBT plastic and have a translucent bottom to make the backlight even more colorful. Keycaps are made using Doubleshot technology. This makes the walls thick and durable."
+    },
+    {
+        "type": "imgSectionNarrow",
+        "imgSource": 5
+    }, 
+    {
+        "type": "imageTextSection",
+        "imgSource": 6,
+        "title": "HotSwap",
+        "text": "Hot swap technology allows to change switches without disassembling the keyboard and using a soldering iron. Switches replacing helps for customizing and modernization the keyboard, and also significantly increases its maintainability."
+    },
+
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 7,
+        "title": "Hand lubricated stabilizers",
+        "text": "To reduce the `leechlike` sounds have been installed stabilizers for improved mechanical design on the Dark Project, which are manually greased during production. The keyboard has a soft, pleasant key motion without ear irritation sound."
+    },
+    {
+        "type": "textSection",
+        "title": "RGB",
+        "text":  "Vivid and colorful RGB illumination with the widest range of settings. Under each key there is a separate diode which provides a directed light beam, the intensity and color regulated at the level of the branded software from the manufacturer."
+    },
+    {
+        "type": "imgSection",
+        "imgSource": 8
+    }, 
+    {
+        "type": "imgSlider",
+        "imgSources": [9,10,11]
+    }, 
+    
+        {
+        "type": "mainSpecs",
+        "RGB": "Yes",
+        "Connectivity": "USB",
+        "Switch": "Mechanical Teal",
+        "Number of Keys": 104,
+        "Material": "Plastic",
+        "keycaps profile" : "Cherry",
+        "Keycap plastic": "PBT",
+        "Leter pronting": "DoubleShot",
+        "Cable": "1,8m, USB-A, braided"
+
+    },
+    {
+        "type": "sizeSpecs",
+        "Size": "362*187*39 mm",
+        "Weight": "865 gr"
+    }
+]

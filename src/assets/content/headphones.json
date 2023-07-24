@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "HS1",
+        "title": "In Stock",
+        "price": 69,
+        "date": "11-04-2023",
+        "popularity": 1
+    },
+    {
+        "id": 2,
+        "name": "HS2",
+        "title": "In Stock",
+        "price": 75,
+        "date": "11-01-2023",
+        "popularity": 11
+    },
+    {
+        "id": 3,
+        "name": "HS3",
+        "title": "In Stock",
+        "price": 39,
+        "date": "11-08-2023",
+        "popularity": 110
+    }
+]

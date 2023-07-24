@@ -1,0 +1,71 @@
+[
+    {
+        "type": "imgSection",
+        "imgSource": 1
+    }, 
+    {
+        "type": "textSection",
+        "title": "KD87A Optical Red",
+        "text":  "Compact, ergonomic gaming keyboard, equipped with the latest generation Gateron Optical Red 2.0 optical switches, wearproof pudding PBT keycaps made using double-shot technology with top engraving of ENG symbols, RGB backlighting, greased TLC stabilizers and case noise isolation."
+    },
+    {
+        "type": "imageTextSection",
+        "imgSource": 2,
+        "title": "Modular cable",
+        "text": "The Dark Project KD87A keyboard comes with a detachable USB - Type-c cable 1.8 m long. The cable channel located at the bottom of the keyboard allows you to easily lay it in any of the three directions to choose from. The wire itself is covered with an elastic wear-resistant braid, which will protect against contact with the table surface and other undesirable influences."
+    },
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 3,
+        "title": "Gateron Optical Red 2.0 switches",
+        "text": "Response time - 1 ms Pressing force - 45g Sensing distance - 2 mm ﻿Clicks resource - 50 million clicks"
+    },
+    {
+        "type": "textSection",
+        "title": "RGB",
+        "text":  "Vivid and colorful RGB illumination with the widest range of settings. Under each key there is a separate diode which provides a directed light beam, the intensity and color regulated at the level of the branded software from the manufacturer."
+    },
+    {
+        "type": "imgSection",
+        "imgSource": 4 
+    }, 
+    {
+        "type": "textSection",
+        "title": "Sideprint",
+        "text":  "ABS Oil Coating with side symbols applying. The unique technology of applying symbols on the side of the keycaps has made it possible to make a stylish and innovative product. Each keycap is covered with a special layer of abrasion-resistant varnish."
+    },
+    {
+        "type": "imageTextSection",
+        "imgSource": 5,
+        "title": "HotSwap",
+        "text": "Hot swap technology allows to change switches without disassembling the keyboard and using a soldering iron. Switches replacing helps for customizing and modernization the keyboard, and also significantly increases its maintainability."
+    },
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 6,
+        "title": "Case soundproofing",
+        "text": "A layer of noise insulation laid inside the keyboard case dampens vibrations and minimizes sound reflections from the walls of the case."
+    },
+    {
+        "type": "imgSlider",
+        "imgSources": [7,8,9]
+    }, 
+    {
+        "type": "mainSpecs",
+        "RGB": "Yes",
+        "Connectivity": "USB",
+        "Switch": "Optical Red 2.0",
+        "Number of Keys": 104,
+        "Material": "Plastic",
+        "keycaps profile" : "Cherry",
+        "Keycap plastic": "PBT",
+        "Leter pronting": "DoubleShot",
+        "Cable": "1,8m, USB-A, braided"
+
+    },
+    {
+        "type": "sizeSpecs",
+        "Size": "362*187*39 mm",
+        "Weight": "865 gr"
+    }
+]

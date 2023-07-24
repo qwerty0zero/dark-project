@@ -1,0 +1,57 @@
+[
+    {
+        "type": "imgSection",
+        "imgSource": 1
+    }, 
+    {
+        "type": "textSection",
+        "title": "HS3",
+        "text":  "Lightweight closed-back headphones that meet all modern gaming headset standards."
+    },
+    {
+        "type": "imageTextSection",
+        "imgSource": 2,
+        "title": "Metal frame",
+        "text": "The structure of the headset is based on a soft headband, made of high-quality eco-leather with a thick metal frame inside. Due to its versatility, this type of construction provides a snug fit, while maintaining comfort even during prolonged use."
+    },
+
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 3,
+        "title": "Braided cable",
+        "text": "The Dark Project HS-3 headphone cable is covered with a protective braid that protects against adverse effects."
+    },
+    {
+        "type": "imageTextSection",
+        "imgSource": 4,
+        "title": "Modular microphone",
+        "text": "The detachable microphone of the HS-3 headset is equipped with a pop filter, and the flexible metal stem is covered with a rubberized layer of protection, and the highly detailed voice recording is sure to impress you and your teammates."
+    },
+    {
+        "type": "imgSection",
+        "imgSource": 5
+    }, 
+    {
+        "type": "imageTextSection",
+        "imgSource": 6,
+        "title": "Control panel",
+        "text": "A control panel is located on the keyboard wire, which makes it easy to mute the microphone and adjust the sound without having to open software or system settings."
+    },
+
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 7,
+        "title": "Neodymium drivers 50 mm",
+        "text": "With internal speaker architecture with neodymium magnets and closed drivers, high sound performance is ensured, positioning in games is clearly defined and their directionality is unmistakable."
+    },
+    {
+        "type": "mainSpecs",
+        "Frequency response": "20-20000Hz",
+        "Sensitivity": "98 dB",
+        "Driver size diametr": "50mm",
+        "RGB": "No",
+        "Micriphone frequency response": "100-10000  Hz",
+        "Micriphone sensitivity" : "42 dB",
+        "Connectivity": "3.5mm jack -USB"
+    }
+]

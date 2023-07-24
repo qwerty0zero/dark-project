@@ -1,0 +1,65 @@
+[
+    {
+        "type": "imgSection",
+        "imgSource": 1
+    }, 
+    {
+        "type": "textSection",
+        "title": "KD87A Skeleton",
+         "text":  "Compact, ergonomic TKL type gaming keyboard, equipped with Gateron Red mechanical switches with factory-waxed bounces, double-shot keycaps with top engraving of ENG symbols, RGB backlighting, greased stabilizers and noise dampeners."
+    },
+    {
+        "type": "imageTextSection",
+        "imgSource": 2,
+        "title": "Doublshot keycaps",
+        "text": "These keycaps are made of PBT plastic. Keycaps are made using Doubleshot technology. This makes the walls thick and durable."
+    },
+    {
+        "type": "imageTextSectionReverse",
+        "imgSource": 3,
+        "title": "Hand lubricated stabilizers",
+        "text": "To reduce the 'leechlike' sounds have been installed stabilizers for improved mechanical design on the Dark Project, which are manually greased during production. The keyboard has a soft, pleasant key motion without ear irritation sound."
+    },
+    {
+        "type": "imageTextSection",
+        "imgSource": 4,
+        "title": "Modular cable",
+        "text": "The wire itself is covered with an elastic wear-resistant braid, which will protect against contact with the table surface and other undesirable influences."
+    },
+    {
+        "type": "textSection",
+        "title": "RGB",
+        "text":  "Vivid and colorful RGB illumination with the widest range of settings. Under each key there is a separate diode which provides a directed light beam, the intensity and color regulated at the level of the branded software from the manufacturer."
+    },
+    {
+        "type": "imgSection",
+        "imgSource": 5
+    }, 
+    {
+        "type": "textSection",
+        "title": "TKL",
+        "text":  "Compact TKL keyboard in classic design. 87 keycaps."
+    },
+    {
+        "type": "imgSlider",
+        "imgSources": [6,7,8]
+    }, 
+    {
+        "type": "mainSpecs",
+        "RGB": "Yes",
+        "Connectivity": "USB",
+        "Switch": "Mechanical Red",
+        "Number of Keys": 87,
+        "Material": "Plastic",
+        "keycaps profile" : "OEM",
+        "Keycap plastic": "PBT",
+        "Leter pronting": "DoubleShot",
+        "Cable": "1,8m, USB-A, braided"
+
+    },
+    {
+        "type": "sizeSpecs",
+        "Size": "362*138*39 mm",
+        "Weight": "865 gr"
+    }
+]
